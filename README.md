@@ -23,3 +23,7 @@ No, that is not the intention of this script, it simply exists to show the key o
 The code does not contain any obfuscated code or remote file downloads. It does not pose any security risks or recommendations."
 
 Additonally you can always look at the code if you're THAT paranoid.
+
+# Will This Work For Retail Keys?
+
+No, this command does not work with retail keys since they aren't stored in the UEFI, these keys also don't die, as they can be transferred.
